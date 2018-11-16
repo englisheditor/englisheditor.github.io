@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: Why you'd want to go on a date with me
+subtitle: Professional English Editing and Proofreading Services
 ---
 ## Our Clients
 
