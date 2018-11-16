@@ -3,6 +3,7 @@ layout: page
 title: FAQ
 subtitle: Frequently Asked Questions
 ---
+
 ## Can you help me prepare my article for publication?
 English Editor can provide the professional editing needed to improve your work and get it ready for publication. Our expert editors will eliminate typos, ensure grammatical correctness, and smooth out the writing so that it is clear and expressive. We will make the required revisions to ensure consistency throughout the document, and we will apply the style guide of your choice, including specific journal guidelines, to your citations and references. Our editors will also provide critical commentary, pointing out where issues remain, where arguments are flawed or incomplete, and where improvements can be made.
 You’ve done the hard work, and you don’t want your work to be rejected because it lacked a final polish. Have English Editor shine up your work for submission. 
